@@ -28,7 +28,6 @@ void create( )
 	new->next=NULL;
 	num++;
 }
-
 int reserve(node *start)
 {
 	if(start==NULL)

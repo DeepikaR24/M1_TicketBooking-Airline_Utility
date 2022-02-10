@@ -35,5 +35,19 @@ Stores the entire customer database.
   * Exit.
 
 # Swot Analysis
+   ![swot analysis](https://user-images.githubusercontent.com/98866123/153329791-29fd871b-1fc9-4bac-b470-bb82c653ed81.png)
+   
+# 4W's and 1'H 
+# Who:
+Airline management and department.
+# What:
+The airline reservation system is a web-based booking solution that helps in consolidating data from all airlines through the use of global distribution systems.
+# When:
+The increasing the number of people to travel to the different places.
+# Where:
+This issue is in all parts of the world.
+# How:
+Any manual wrong entry of the data by the person who is managing the airline booking will create a lot of confusion among the airline management and passengers might not get seats even if there was an empty seats.
+
     
 

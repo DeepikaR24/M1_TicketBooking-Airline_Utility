@@ -22,7 +22,6 @@ INC	= -Iinc\
 all: $(SRC) $(BUILD)
 	gcc $(SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 
-
 run: all
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 

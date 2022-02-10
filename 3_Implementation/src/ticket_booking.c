@@ -31,7 +31,6 @@ void create( )
 
 int reserve(node *start)
 {
-
 	if(start==NULL)
 	{
    		 create(start);
@@ -39,16 +38,14 @@ int reserve(node *start)
 	}
 	else
 	{
-
-	node *temp, *new_node;
+        node *temp, *new_node;
 	temp=start;
 	while(temp->next!=NULL)
 	{
 	  temp=temp->next;
 	}
-
 	new_node=(node *)malloc(sizeof(node));
-    printf("Passport Number : ");
+        printf("Passport Number : ");
 	scanf("%d", &new_node->passport_no);
 	printf("Name: ");
 	scanf("%s", new_node->name);
@@ -62,7 +59,6 @@ int reserve(node *start)
 		num++;
 		new_node->reg_no=num;
 		temp->next=new_node;
-
 		return 1;
 	}
 	else
@@ -72,8 +68,6 @@ int reserve(node *start)
 	}
 }
 }
-
-
 int cancel(int reg)
 {
 	node *ptr, *preptr, *new;
@@ -87,9 +81,7 @@ int cancel(int reg)
 		num--;
 		free(ptr);
 		return 1;
-
 		}
-
 	else{
 	while(ptr->reg_no!=reg && ptr->next!=NULL)
 		{
@@ -107,10 +99,8 @@ int cancel(int reg)
 		preptr->next=new;
 		num--;
 		return 1;
-
 	}
 }
-
 void enq(node *new_node)
 {
 	if(rear==NULL)
@@ -129,7 +119,6 @@ void enq(node *new_node)
 	}
 	count++;
 }
-
 node* deq()
 {
 	node *front1;
@@ -153,11 +142,7 @@ node* deq()
 			return front1;
 		}
 	}
-
-
 }
-
-
 void display()
 {
 	node *temp;
@@ -171,5 +156,4 @@ void display()
 		printf("Destination: %s\n", temp->destination);
 		temp=temp->next;
     }
-
 }

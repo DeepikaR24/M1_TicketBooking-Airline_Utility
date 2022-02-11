@@ -18,7 +18,7 @@ Display Terms and Conditions, details and flights to the travelers.
 Display the arrangement of seats on the screen thus enabling customers to book seats accordingly.
 Real-Time Update.
 
-# Defining Our System
+# Features-Defining Our System
 Add airline database.
 Add/delete specific flight.
 View its own flight,customers of specific flight and update airline info.
@@ -49,6 +49,7 @@ This issue is in all parts of the world.
  ## How:
 Any manual wrong entry of the data by the person who is managing the airline booking will create a lot of confusion among the airline management and passengers might not get seats even if there was an empty seats.
 
+
 # Detail requirements
  ## High Level Requirements:
    | ID	  |                   Description	                              | Category     |  Status      |
@@ -56,7 +57,7 @@ Any manual wrong entry of the data by the person who is managing the airline boo
    | HR01 | User shall be able to add new passenger record	             |  Techincal   | 	Implemented
    | HR02	| User shall be able to read a passenger record	              |  Techincal 	 |  Implemented
    | HR03	| User shall be able to read all the passenger record	        |  Techincal   |  Implemented
-   | HR04	| User Shall be able to read the number of seats available    | 	Technica    | 	Implemented
+   | HR04	| User Shall be able to read the number of seats available    | 	Technical   | 	Implemented
    | HR05	| User shall be able to allot the seats to the passengers	    |  Scenario	   |  Implemented
    | HR06	| User shall be able to cancel the seats                      |	 Scenario	   |  Implemented
  

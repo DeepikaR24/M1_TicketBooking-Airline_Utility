@@ -117,6 +117,7 @@ Any manual wrong entry of the data by the person who is managing the airline boo
  * Markdown Basics
  
 # Conclusion
-    Created Ticket Booking For Airline successfully with the help of C Language. By updating the seats avialable in airline this makes customers to book their tickets easily and allot seats for them.
+    Created Ticket Booking For Airline successfully with the help of C Language.
+    By updating the seats avialable in airline this makes customers to book their tickets easily and allot seats for them.
 
 

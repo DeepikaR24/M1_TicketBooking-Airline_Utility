@@ -1,4 +1,4 @@
-# Learning Resources
+# References
  * Futureskill reference videos.
  * markdownBasics
  * git inspector

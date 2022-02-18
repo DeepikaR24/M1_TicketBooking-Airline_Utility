@@ -3,6 +3,9 @@
 [![CI](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/build.yml)
 
 [![Git Inspector](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/gitinspector.yml/badge.svg?branch=main)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/gitinspector.yml)
+
+[![Valgrind](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/codequality.yml/badge.svg)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/codequality.yml)
+
 ### Codacy badges
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/72d999f434464f7da06ecc5bb0c3c36b)](https://www.codacy.com/gh/DeepikaR24/M1_TicketBooking-Airline_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DeepikaR24/M1_TicketBooking-Airline_Utility&amp;utm_campaign=Badge_Grade)
 

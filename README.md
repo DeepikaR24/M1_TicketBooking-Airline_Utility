@@ -1,6 +1,6 @@
 # M1_TicketBooking-Airline_Utility
  ## Badges
-    CI 
+[![CI](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/build.yml)
 
 
    # TICKET BOOKING FOR AIRLINE    

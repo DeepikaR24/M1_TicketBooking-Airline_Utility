@@ -6,7 +6,8 @@
 
 [![Valgrind](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/codequality.yml/badge.svg)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/codequality.yml)
 
-### Codacy badges
+[![cppcheck-action](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/cpp.yml/badge.svg)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/cpp.yml)
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/72d999f434464f7da06ecc5bb0c3c36b)](https://www.codacy.com/gh/DeepikaR24/M1_TicketBooking-Airline_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DeepikaR24/M1_TicketBooking-Airline_Utility&amp;utm_campaign=Badge_Grade)
 
    # TICKET BOOKING FOR AIRLINE    

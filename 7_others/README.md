@@ -1,7 +1,6 @@
 # Learning Resoureces
- * Google to know basics requirements to book the slot.
- * Process that take place in Airlines articles & videos.
- * Managing booking resoureces for whole airline.
+ * Google-basics requirements to book the seat.
+ * Managing & booking resoureces-Airlines articles & videos.
  * Futureskill reference videos.
  
 

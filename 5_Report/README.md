@@ -112,9 +112,11 @@ Any manual wrong entry of the data by the person who is managing the airline boo
 
 **Test plan** Doucmentation is created and output is captured for every possible level Requirements in test case and **verified** succesfully.
 
-# References
- 
- 
+# Learning Resoureces
+ * Google-basics requirements to book the seat.
+ * Managing & booking resoureces-Airlines articles & videos.
+ * Futureskill reference videos.
+  
 # Conclusion
     Created Ticket Booking For Airline successfully with the help of C Language.
     By updating the seats avialable in airline this makes customers to book their tickets easily and allot seats for them.

@@ -1,4 +1,4 @@
-# Requirements
+# REQUIREMENTS
 
  ## Introduction
 "Airline Reservation systems (ARS) are systems that allow an airline to sell their inventory (seats). It contains information on schedules and fares and contains a database of reservations (or passenger name records) and of tickets issued (if applicable). ABSs are part of passenger service systems (PSS), which are applications supporting the direct contact with the passenger.ABS eventually evolved into the computer reservations system (CRS). A computer reservation system is used for the reservations of a particular airline and interfaces with a global distribution system (GDS) which supports travel agencies and other distribution channels in making reservations for most major airlines in a single system.

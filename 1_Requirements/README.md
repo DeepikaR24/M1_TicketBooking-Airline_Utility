@@ -10,20 +10,20 @@ Airline Reservation systems incorporate airline schedules, fare tariffs, passeng
 Airline Reservation systems has a set of benefits. 
 Here are few of them:
 
-24/7 booking available for customers.
-User-Friendly Interface.
-Easy Cancellation Process.
-Easy and flexible booking policies for travelers.
-Display Terms and Conditions, details and flights to the travelers.
-Display the arrangement of seats on the screen thus enabling customers to book seats accordingly.
-Real-Time Update.
+* 24/7 booking available for customers.
+* User-Friendly Interface.
+* Easy Cancellation Process.
+*Easy and flexible booking policies for travelers.
+* Display Terms and Conditions, details and flights to the travelers.
+* Display the arrangement of seats on the screen thus enabling customers to book seats accordingly.
+* Real-Time Update.
 
  ## Features-Defining Our System
-Add airline database.
-Add/delete specific flight.
-View its own flight,customers of specific flight and update airline info.
-Update personal information(name,age).
-Stores the entire customer database.
+ * Add airline database.
+* Add/delete specific flight.
+* View its own flight,customers of specific flight and update airline info.
+* Update personal information(name,age).
+* Stores the entire customer database.
 
 ![design png](https://user-images.githubusercontent.com/98866123/153311069-f4f23c33-05b0-4129-8757-2af0fbce41ea.png)
 
@@ -38,20 +38,20 @@ Stores the entire customer database.
    ![swot analysis](https://user-images.githubusercontent.com/98866123/153329791-29fd871b-1fc9-4bac-b470-bb82c653ed81.png)
    
  ## 4W's and 1'H 
- ### Who:
+ #### Who:
 Airline management and department.
- ### What:
+ #### What:
 The airline reservation system is a web-based booking solution that helps in consolidating data from all airlines through the use of global distribution systems.
- ### When:
+ #### When:
 The increasing the number of people to travel to the different places.
- ### Where:
+ #### Where:
 This issue is in all parts of the world.
- ### How:
+ #### How:
 Any manual wrong entry of the data by the person who is managing the airline booking will create a lot of confusion among the airline management and passengers might not get seats even if there was an empty seats.
 
 
 ## Detail requirements
- ### High Level Requirements:
+ #### High Level Requirements:
    | ID	  |                   Description	                              | Category     |  Status      |
    |----  |-------------------------------------------------------------|------------  |---------------                                                     
    | HR01 | User shall be able to add new passenger record	             |  Techincal   | 	Implemented
@@ -61,7 +61,7 @@ Any manual wrong entry of the data by the person who is managing the airline boo
    | HR05	| User shall be able to allot the seats to the passengers	    |  Scenario	   |  Implemented
    | HR06	| User shall be able to cancel the seats                      |	 Scenario	   |  Implemented
  
- ### Low level Requirements:
+ #### Low level Requirements:
    | ID	  |     Description                                                                      |	HLR ID   |	Status (Implemented/Future) |
    |------|--------------------------------------------------------------------------------------|----------|-----------------------------|
    | LR01 |  New record shall be added by providing all the asked information and the Passenger  |   HR01   |    Implemented              |

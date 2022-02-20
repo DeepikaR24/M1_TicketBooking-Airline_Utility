@@ -1,12 +1,12 @@
 # Requirements
 
-# Introduction
+## Introduction
 "Airline Reservation systems (ARS) are systems that allow an airline to sell their inventory (seats). It contains information on schedules and fares and contains a database of reservations (or passenger name records) and of tickets issued (if applicable). ABSs are part of passenger service systems (PSS), which are applications supporting the direct contact with the passenger.ABS eventually evolved into the computer reservations system (CRS). A computer reservation system is used for the reservations of a particular airline and interfaces with a global distribution system (GDS) which supports travel agencies and other distribution channels in making reservations for most major airlines in a single system.
 
-# Research
+## Research
 Airline Reservation systems incorporate airline schedules, fare tariffs, passenger reservations and ticket records. An airline's direct distribution works within their own reservation system, as well as pushing out information to the GDS. The second type of direct distribution channel are consumers who use the internet or mobile applications to make their own reservations. Travel agencies and other indirect distribution channels access the same GDS as those accessed by the airline reservation systems, and all messaging is transmitted by a standardized messaging system that functions on two types of messaging that transmit on SITA's high level network (HLN). These messaging types are called Type A [usually EDIFACT format] for real time interactive communication and Type B [TTY] for informational and booking type of messages. Message construction standards set by IATA and ICAO, are global, and apply to more than air transportation. Since airline booking systems are business critical applications, and they are functionally quite complex, the operation of an in-house airline reservation system is relatively expensive.
 
-# Benefits
+## Benefits
 Airline Reservation systems has a set of benefits. 
 Here are few of them:
 
@@ -18,7 +18,7 @@ Display Terms and Conditions, details and flights to the travelers.
 Display the arrangement of seats on the screen thus enabling customers to book seats accordingly.
 Real-Time Update.
 
-# Features-Defining Our System
+## Features-Defining Our System
 Add airline database.
 Add/delete specific flight.
 View its own flight,customers of specific flight and update airline info.
@@ -27,31 +27,31 @@ Stores the entire customer database.
 
 ![design png](https://user-images.githubusercontent.com/98866123/153311069-f4f23c33-05b0-4129-8757-2af0fbce41ea.png)
 
-# Explaination
+## Explaination
   * Airline Reservation Application have few inbuilt features like:
   * Reserve airline.
   * Cancel flight.
   * Display airline records.
   * Exit.
 
-# Swot Analysis
+## Swot Analysis
    ![swot analysis](https://user-images.githubusercontent.com/98866123/153329791-29fd871b-1fc9-4bac-b470-bb82c653ed81.png)
    
-# 4W's and 1'H 
- ## Who:
+## 4W's and 1'H 
+ ### Who:
 Airline management and department.
- ## What:
+ ### What:
 The airline reservation system is a web-based booking solution that helps in consolidating data from all airlines through the use of global distribution systems.
- ## When:
+ ### When:
 The increasing the number of people to travel to the different places.
- ## Where:
+ ### Where:
 This issue is in all parts of the world.
- ## How:
+ ### How:
 Any manual wrong entry of the data by the person who is managing the airline booking will create a lot of confusion among the airline management and passengers might not get seats even if there was an empty seats.
 
 
-# Detail requirements
- ## High Level Requirements:
+## Detail requirements
+ ### High Level Requirements:
    | ID	  |                   Description	                              | Category     |  Status      |
    |----  |-------------------------------------------------------------|------------  |---------------                                                     
    | HR01 | User shall be able to add new passenger record	             |  Techincal   | 	Implemented
@@ -61,7 +61,7 @@ Any manual wrong entry of the data by the person who is managing the airline boo
    | HR05	| User shall be able to allot the seats to the passengers	    |  Scenario	   |  Implemented
    | HR06	| User shall be able to cancel the seats                      |	 Scenario	   |  Implemented
  
- ## Low level Requirements:
+ ### Low level Requirements:
    | ID	  |     Description                                                                      |	HLR ID   |	Status (Implemented/Future) |
    |------|--------------------------------------------------------------------------------------|----------|-----------------------------|
    | LR01 |  New record shall be added by providing all the asked information and the Passenger  |   HR01   |    Implemented              |
@@ -71,25 +71,25 @@ Any manual wrong entry of the data by the person who is managing the airline boo
 
 # Design
 
-# Structural Diagram
-   ## High Level Design
+## Structural Diagram
+   ### High Level Design
   * Architecture Flowchart Diagram
      
      ![Screenshot (51)](https://user-images.githubusercontent.com/98866123/154612181-1d07ff1e-1740-4483-96cb-7e540786f966.png)![Screenshot (52)](https://user-images.githubusercontent.com/98866123/154612305-24949bf4-e1ba-4d41-926b-7816f3ccb4ad.png)
 
- ## Low Level Design
+ ### Low Level Design
   * Level One Data Flow Diagram
      
      ![levelone-dfd](https://user-images.githubusercontent.com/98866123/153324378-44e9320b-baf5-42ec-8861-ba362c48e59d.png)
 
 
 
-# Behavioural Diagram
- ## High Level Design
+## Behavioural Diagram
+ ### High Level Design
   * Use Case Diagram
       
       ![use case diagram](https://user-images.githubusercontent.com/98866123/153323603-f2348596-5847-4d6b-8fe9-60d7612d7fdd.png)
- ## Low Level Design
+ ### Low Level Design
  * Level zero Data Flow Diagram
 
      ![levelzero-dfd](https://user-images.githubusercontent.com/98866123/153324588-38b7520a-6cda-4866-b34b-095ec6b91e82.png)

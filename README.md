@@ -23,10 +23,10 @@ The Airline Ticket Booking system is designed for passengers to book a seat, can
    
 # Folder Structure
    | Folder               |            	Description                        |
-   |------------------------------------------------------------------------
+   |----------------------|------------------------------------------------
    | 1_Requirements	      | Documents detailing requirements and research
-   | 2_Design             | Documents specifying design details
+   | 2_Design             | Structural & Behavioural design details
    | 3_Implementation     |	All code and documentation
    | 4_TestplanAndOutput	 | Documents with test plans and procedures
-   | 5_Report             |
-   | 6_ImagesAndVideos    |
+   | 5_Report             | Report created
+   | 6_ImagesAndVideos    | All the images & videos of program execution

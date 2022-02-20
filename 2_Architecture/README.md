@@ -1,4 +1,4 @@
-# Design
+# DESIGN
 
 ## Structural Diagram
    ### High Level Design

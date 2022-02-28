@@ -1,5 +1,5 @@
 /**
- * @file mainc_code.c
+ * @file main.c
  * @author Deepika R (deepika.r1@ltts.com)
  * @brief 
  * @version 0.1

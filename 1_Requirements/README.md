@@ -11,7 +11,7 @@ Airline Reservation systems incorporate airline schedules, fare tariffs, passeng
   Requires High cost for global implementation and maintainance.
 ## Features
   * Book airline ticket.
-  * Cancel flight.
+  * Cancel booked flight ticket.
   * Display airline records.
   * Exit.
 

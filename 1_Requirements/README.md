@@ -41,19 +41,19 @@ Passengers and their passport details, travel location and timing are much enoug
  #### High Level Requirements:
    | ID	  |                   Description	                              |  Status      |
    |----  |-------------------------------------------------------------|---------------                                                     
-   | HLR01 | User shall be able to add new passenger record	            | 	Implemented
-   | HLR02	| User shall be able to read a passenger record	            	|  Implemented
-   | HLR03	| User shall be able to read all the passenger record	        |  Implemented
-   | HLR04	| User Shall be able to read the number of seats available    | 	Implemented
-   | HLR05	| User shall be able to allot the seats to the passengers	    |  Implemented
-   | HLR06	| User shall be able to cancel the seats                      |  Implemented
+   | HLR01 | User should have the option to add new traveler record	            | 	Implemented
+   | HLR02	| User should have the option to read all passenger record	            	|  Implemented
+   | HLR03	| User should be able to read the number of seats available 	        |  Implemented
+   | HLR04	| User should be able to allot the seats                 	  | 	Implemented
+   | HLR05	| User should be able to cancel the seats                    |  Implemented
+   
  
  #### Low level Requirements:
    | ID	  |     Description                                                                      |	HLR ID   |	Status (Implemented/Future) |
    |------|--------------------------------------------------------------------------------------|----------|-----------------------------|
-   | LLR01 |  New record shall be added by providing all the asked information and the Passenger  |   HLR01   |    Implemented              |
-   |      |  id should be unique else Passenger record should not be accepted.	                  |          |	                            |            
-   | LLR02	| Reading Passenger data should be possible by printing all the records available     	| HLR02	    |    Implemented              |
+   | LLR01 |  New record shall be added by giving all the asked data and the Passenger id         | HLR01     |   Implemented
+   |       |   should be exceptional else Passenger record ought not be acknowledged.              |          |	                            |            
+   | LLR02	| Perusing Passenger information will be conceivable by printing every one of the records available 	| HLR02	    |    Implemented              |
    
 ## Advantages
 * Easy mode of ticket booking and payment.

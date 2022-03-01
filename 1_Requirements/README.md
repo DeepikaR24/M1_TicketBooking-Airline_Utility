@@ -9,22 +9,19 @@
 Airline Reservation systems incorporate airline schedules, fare tariffs, passenger reservations and ticket records. An airline's direct distribution works within their own reservation system, as well as pushing out information to the GDS. The second type of direct distribution channel are consumers who use the internet or mobile applications to make their own reservations. Travel agencies and other indirect distribution channels access the same GDS as those accessed by the airline reservation systems, and all messaging is transmitted by a standardized messaging system that functions on two types of messaging that transmit on SITA's high level network (HLN). These messaging types are called Type A [usually EDIFACT format] for real time interactive communication and Type B [TTY] for informational and booking type of messages. Message construction standards set by IATA and ICAO, are global, and apply to more than air transportation. Since airline booking systems are business critical applications, and they are functionally quite complex, the operation of an in-house airline reservation system is relatively expensive
 ## Cost
   Requires High cost for global implementation and maintainance.
+## Defining  Our System
+ ![design png](https://user-images.githubusercontent.com/98866123/153311069-f4f23c33-05b0-4129-8757-2af0fbce41ea.png)
+## Explanation
+* Add aircraft data set.
+* Add/erase explicit aircraft.
+* View its passenger of explicit flight and update flight data and toll subtleties.
+* Update passenger information(name,age,passport details,destination).
+* Stores the whole passenger information base as another record.
 ## Features
   * Book airline ticket.
   * Cancel booked flight ticket.
   * Display airline records.
   * Exit.
-
-## Defining  Our System
- ![design png](https://user-images.githubusercontent.com/98866123/153311069-f4f23c33-05b0-4129-8757-2af0fbce41ea.png)
-
-## Explanation
-* Add airline database.
-* Add/delete specific flight.
-* View its own flight,customers of specific flight and update airline info.
-* Update personal information(name,age).
-* Stores the entire customer database.
-
  ## Swot Analysis
    ![swot analysis](https://user-images.githubusercontent.com/98866123/153329791-29fd871b-1fc9-4bac-b470-bb82c653ed81.png)
    

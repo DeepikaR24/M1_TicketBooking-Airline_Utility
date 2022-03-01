@@ -14,7 +14,7 @@ Airline Reservation systems incorporate airline schedules, fare tariffs, passeng
 ## Explanation
 * Add aircraft data set.
 * Add/erase explicit aircraft.
-* View its passenger of explicit flight and update flight data and toll subtleties.
+* View its passenger of explicit flight and update flight data.
 * Update passenger information(name,age,passport details,destination).
 * Stores the whole passenger information base as another record.
 ## Features

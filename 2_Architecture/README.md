@@ -9,6 +9,9 @@
  #### 2) Low Level Design
   * Component Diagram
      
+  ![str comp diag](https://user-images.githubusercontent.com/98866123/156204378-4b3b698a-08cc-4744-a76c-da430f9d7b17.png)
+
+
    
 
 

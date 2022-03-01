@@ -39,21 +39,21 @@ Passengers and their passport details, travel location and timing are much enoug
 
 ## Detail requirements
  #### High Level Requirements:
-   | ID	  |                   Description	                              | Category     |  Status      |
-   |----  |-------------------------------------------------------------|------------  |---------------                                                     
-   | HR01 | User shall be able to add new passenger record	             |  Techincal   | 	Implemented
-   | HR02	| User shall be able to read a passenger record	              |  Techincal 	 |  Implemented
-   | HR03	| User shall be able to read all the passenger record	        |  Techincal   |  Implemented
-   | HR04	| User Shall be able to read the number of seats available    | 	Technical   | 	Implemented
-   | HR05	| User shall be able to allot the seats to the passengers	    |  Scenario	   |  Implemented
-   | HR06	| User shall be able to cancel the seats                      |	 Scenario	   |  Implemented
+   | ID	  |                   Description	                              |  Status      |
+   |----  |-------------------------------------------------------------|---------------                                                     
+   | HLR01 | User shall be able to add new passenger record	            | 	Implemented
+   | HLR02	| User shall be able to read a passenger record	            	|  Implemented
+   | HLR03	| User shall be able to read all the passenger record	        |  Implemented
+   | HLR04	| User Shall be able to read the number of seats available    | 	Implemented
+   | HLR05	| User shall be able to allot the seats to the passengers	    |  Implemented
+   | HLR06	| User shall be able to cancel the seats                      |  Implemented
  
  #### Low level Requirements:
    | ID	  |     Description                                                                      |	HLR ID   |	Status (Implemented/Future) |
    |------|--------------------------------------------------------------------------------------|----------|-----------------------------|
-   | LR01 |  New record shall be added by providing all the asked information and the Passenger  |   HR01   |    Implemented              |
+   | LLR01 |  New record shall be added by providing all the asked information and the Passenger  |   HLR01   |    Implemented              |
    |      |  id should be unique else Passenger record should not be accepted.	                  |          |	                            |            
-   | LR02	| Reading Passenger data should be possible by printing all the records available     	| HR02	    |    Implemented              |
+   | LLR02	| Reading Passenger data should be possible by printing all the records available     	| HLR02	    |    Implemented              |
    
 ## Advantages
 * Easy mode of ticket booking and payment.
@@ -73,7 +73,7 @@ Passengers and their passport details, travel location and timing are much enoug
 * Software glitch may occur during booking tickets.
 * While paying online if network issues happen gives confusion whether you paid or have to.
 * There may be mislead of twice booking the tickets when there is network issues.
-## Applications
+## Application
 * In Domestic and International Airlines.
 
 

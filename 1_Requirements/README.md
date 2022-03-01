@@ -27,16 +27,15 @@ Airline Reservation systems incorporate airline schedules, fare tariffs, passeng
    
  ## 4W's and 1'H 
  #### Who:
-Airline management and department.
- #### What:
-The airline reservation system is a web-based booking solution that helps in consolidating data from all airlines through the use of global distribution systems.
+Airline management and department are responsible for booking management and anyone can book the tickets to travel.
+ #### Why:
+Year by year flight passengers are increasing, as technologies are advanced so this the best system to follow to book without a queue.
  #### When:
-The increasing the number of people to travel to the different places.
+Book the ticket when needed, 24/7 booking available to travel.
  #### Where:
-This issue is in all parts of the world.
+In this pandemic situation this ticket booking for airline system helps to book the ticket to travel via flights safely.
  #### How:
-Any manual wrong entry of the data by the person who is managing the airline booking will create a lot of confusion among the airline management and passengers might not get seats even if there was an empty seats.
-
+Passengers and their passport details, travel location and timing are much enough to book the ticket to fly.
 
 ## Detail requirements
  #### High Level Requirements:

@@ -13,7 +13,9 @@
 
 ### Behavioural Diagram
  #### 1) High Level Design
-  * 
+  * Sequence Diagram
+  ![Behavi seq Diag](https://user-images.githubusercontent.com/98866123/156209514-db943e2b-6193-4fcc-952f-20c112d810b8.png)
+
       
  #### 2) Low Level Design
   * User Case Diagram

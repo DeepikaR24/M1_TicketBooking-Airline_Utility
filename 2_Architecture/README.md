@@ -2,14 +2,14 @@
 
 ### Structural Diagram
  #### 1) High Level Design
+ * Class Diagram
   
-     
-     
- #### 2) Low Level Design
-  * Level One Data Flow Diagram
-     
-     ![levelone-dfd](https://user-images.githubusercontent.com/98866123/153324378-44e9320b-baf5-42ec-8861-ba362c48e59d.png)
+  ![str class diag](https://user-images.githubusercontent.com/98866123/156203678-190bf19e-1271-4d03-8dc4-13e161a4430f.png)
 
+ #### 2) Low Level Design
+  * Component Diagram
+     
+   
 
 
 ### Behavioural Diagram

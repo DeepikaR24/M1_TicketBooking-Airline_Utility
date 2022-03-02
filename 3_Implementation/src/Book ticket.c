@@ -1,5 +1,5 @@
 #include<ticket_booking.h>
-int reserve(node *start)
+int book(node *start)
 {
 	if(start==NULL)
 	{
@@ -15,14 +15,14 @@ int reserve(node *start)
 	  temp=temp->next;
 	}
 	new_node=(node *)malloc(sizeof(node));
-        printf("Passport Number : ");
+        printf("Enter your passport number:");
 	scanf("%d", &new_node->passport_no);
-	printf("Name: ");
+	printf("Enter your name:");
 	scanf("%s", new_node->name);
-	printf("Age : ");
-	scanf("%d", &new_node->age);
+	printf("Enter your email address:");
+	scanf("%d", &new_node->email);
 	new_node->next=NULL;
-	printf("Destination : ");
+	printf("Enter the Destination : ");
 	scanf("%s",new_node->destination);
 	if(num<=size)
 	{

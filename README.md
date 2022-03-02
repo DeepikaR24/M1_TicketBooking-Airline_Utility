@@ -1,5 +1,7 @@
- # TICKET BOOKING FOR AIRLINE      
+ # TICKET BOOKING FOR AIRLINE                           
    ![airline banner](https://user-images.githubusercontent.com/98866123/153327960-54490e39-7b80-4717-807d-3c4cf8ddf6ac.png)
+   
+   The Airline ticket Booking system is intended for passengers to book a seat, cancel, show seat and exit the system. A some functions is enclosed to calculate the seats that square measure obtainable or already set-aside. Pseudocode is written for a few necessary codes. A options square measure explained with the high and low level needs and conjointly with structural and behavioural Diagram also are created for explaining the method of the ticket Booking For Airline system. The system is enforced by asking the passenger’s info like name, passport no, email id. finally these procedures, a price ticket booking is finished. As a booking proof, the system provides seat range. so as to envision tickets, the user must offer seat no. then solely the system check for the several tickets within the information and displays a result. By providing passengers seat range we are able to simply cancel the flight reservation.
 # Badges
 ### Build
  [![CI](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/build.yml)
@@ -11,10 +13,6 @@
 [![cppcheck-action](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/cpp.yml/badge.svg)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/cpp.yml)
 ### Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/72d999f434464f7da06ecc5bb0c3c36b)](https://www.codacy.com/gh/DeepikaR24/M1_TicketBooking-Airline_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DeepikaR24/M1_TicketBooking-Airline_Utility&amp;utm_campaign=Badge_Grade)
-
-# About Project
-The Airline Ticket Booking system is designed for passengers to book a seat, cancel, display seat and exit the system. A some functions is included to calculate the seats that are available or already booked. Pseudocode is written for some important codes. A features are explained with the high and low level requirements and also with structural and Behavioral Diagram are also created for explaining the process of the Ticket Booking For Airline system. The system is implemented by asking the passenger’s information such as name, passport no, email id. After all these procedures, a ticket booking is done. As a booking proof, the system provides seat number. In order to check tickets, the user has to provide seat no. then only the system check for the respective tickets in the database and displays a result. By providing passengers seat number we can easily cancel the flight reservation.
-
 # Features
    * Booking airline ticket.
    * Cancel booked flight ticket.
@@ -30,3 +28,4 @@ The Airline Ticket Booking system is designed for passengers to book a seat, can
    | 4_TestplanAndOutput	 | Documents with test plans and procedures
    | 5_Report             | Report created
    | 6_ImagesAndVideos    | All the images & videos of program execution
+   | 7_ Others            | Conclusion and Learning resources

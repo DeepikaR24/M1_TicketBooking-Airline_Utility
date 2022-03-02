@@ -4,13 +4,13 @@ void create( )
 	node *new;
 	new=(node *)malloc(sizeof(node));
 	new->reg_no=1;
-	printf("Passport Number : ");
+	printf("Enter your passport number:");
 	scanf("%d", &new->passport_no);
-	printf("Name: ");
+	printf("Enter your name:");
 	scanf("%s", new->name);
-	printf("Age : ");
-	scanf("%d", &new->age);
-	printf("Destination : ");
+	printf("Enter your email address:");
+	scanf("%d", &new->email);
+	printf("Enter the Destination : ");
 	scanf("%s", new->destination);
 	start=new;
 	new->next=NULL;

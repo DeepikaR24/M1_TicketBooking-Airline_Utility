@@ -11,6 +11,13 @@
 [![Valgrind](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/codequality.yml/badge.svg)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/codequality.yml)
 ### cppcheck
 [![cppcheck-action](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/cpp.yml/badge.svg)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/cpp.yml)
+### Codiga
+#### Code quality score
+![image](https://user-images.githubusercontent.com/98866123/156388532-ecdb08b1-2177-4797-a893-d8096068f321.png)
+#### Code grade
+![image](https://user-images.githubusercontent.com/98866123/156388794-ae53b908-0ef8-4150-93c9-64537f9584fd.png)
+
+
 ### Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/72d999f434464f7da06ecc5bb0c3c36b)](https://www.codacy.com/gh/DeepikaR24/M1_TicketBooking-Airline_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DeepikaR24/M1_TicketBooking-Airline_Utility&amp;utm_campaign=Badge_Grade)
 # Features

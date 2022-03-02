@@ -1,6 +1,6 @@
 # REQUIREMENTS
 ## Introduction
-Airline Reservation systems (ARS) ar systems that permit associate degree airline to sell their seats. It contains info on schedules and fares and contains a information of reservations (or traveller name records) and of tickets issued (if applicable). ABSs ar a part of traveller service systems (PSS), that ar applications supporting the direct contact with the traveller.ABS eventually evolved into the pc reservations system (CRS). A pc reservation system is employed for the reservations of a selected airline and interfaces with a world distribution system (GDS) that supports travel agencies and different distribution channels in creating booking for many major airlines in an exceedingly single system.
+Airline Reservation systems (ARS) are systems that permit associate degree airline to sell their seats. It contains info on schedules and fares and contains a information of reservations (or traveller name records) and of tickets issued (if applicable). ABSs are a part of traveller service systems (PSS), that ar applications supporting the direct contact with the traveller.ABS eventually evolved into the pc reservations system (CRS). A pc reservation system is employed for the reservations of a selected airline and interfaces with a world distribution system (GDS) that supports travel agencies and different distribution channels in creating booking for many major airlines in an exceedingly single system.
 
 ## Objectives
 * To book airline tickets within minutes.
@@ -65,7 +65,7 @@ Passengers and their passport details, travel location and timing are much enoug
 * Ticket booking available for both Domestic and International Airlines.
 * Able to view flight schedules and live tracking.
 * We able to compare price of ticket, rating & review and choose the flight accordingly. 
-* Growth of airline bussiness and travel industry.
+* Growth of airline business and travel industry.
 * Real time updates of flights.
 * Easy Cancellation of ticket by single click.
 * Easy Refunds policies are available after Cancellation. 

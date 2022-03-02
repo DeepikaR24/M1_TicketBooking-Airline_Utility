@@ -23,7 +23,7 @@ Airline booking frameworks consolidate aircraft plans, admission levies, travele
   * Cancel booked flight ticket.
   * Display airline records.
   * Exit.
- ## Swot Analysis
+ ## SWOT Analysis
    ![swot analysis](https://user-images.githubusercontent.com/98866123/153329791-29fd871b-1fc9-4bac-b470-bb82c653ed81.png)
    
  ## 4W's and 1'H 

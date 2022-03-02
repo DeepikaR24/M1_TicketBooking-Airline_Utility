@@ -48,7 +48,7 @@ int main(int argc, char **argv)
 	              {
 	              canc=cancel(reg);
 	              if(canc==-1)
-	              	printf("\nPassport number is invalid!!\n");
+	              	printf("\nPassport number is wrong please check your passport\n");
 	              else
 	              	printf("\nhas been deleted\n");
 	              	}

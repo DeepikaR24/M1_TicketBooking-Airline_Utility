@@ -1,4 +1,4 @@
-## IMAGES ADDED
+## OUTPUT IMAGES ADDED
  * Interface page
  
  * Invalid Selection

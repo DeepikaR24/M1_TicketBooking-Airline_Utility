@@ -32,6 +32,7 @@ int main(int argc, char **argv)
 	              break;
 
 	    case 2:   printf(" \n Enter passport number to delete record?:\n");
+		          int reg;
 	              scanf(" %d", &reg);
 	              if(reg>num)
 	              printf("Invalid!!");

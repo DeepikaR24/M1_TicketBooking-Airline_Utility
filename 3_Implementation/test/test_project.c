@@ -41,7 +41,8 @@ int main(int argc, char **argv)
 	                printf(" \nSeat booking successful! \nyour seat number is: %d\n\n", num);
 	              break;
 	    case 2:   printf(" \n Enter passport number to delete record?:\n");
-	              scanf(" %d", &reg);
+	              int reg;
+				  scanf(" %d", &reg);
 	              if(reg>num)
 	              printf("Invalid!!");
 	              else

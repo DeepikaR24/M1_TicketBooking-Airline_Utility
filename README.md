@@ -3,18 +3,20 @@
    
    The Airline ticket Booking system is intended for passengers to book a seat, cancel, show seat and exit the system. A some functions is enclosed to calculate the seats that square measure obtainable or already set-aside. Pseudocode is written for a few necessary codes. A options square measure explained with the high and low level needs and conjointly with structural and behavioural Diagram also are created for explaining the method of the ticket booking for Airline system. The system is enforced by asking the passenger’s info like name, passport no, email id. finally these procedures, a price ticket booking is finished. As a booking proof, the system provides seat range. so as to envision tickets, the user must offer seat no. then solely the system check for the several tickets within the information and displays a result. By providing passengers seat range we are able to simply cancel the flight reservation.
 # Badges
-### Build
+### Build Status
  [![CI](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/build.yml)
+### Dynamic Check
+[![Valgrind](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/codequality.yml/badge.svg)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/codequality.yml)
+### Static Check
+[![cppcheck-action](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/cpp.yml/badge.svg)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/cpp.yml)
+### Code Quality Badges
 ### Git Inspector
 [![Git Inspector](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/gitinspector.yml/badge.svg?branch=main)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/gitinspector.yml)
-### Valgrind
-[![Valgrind](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/codequality.yml/badge.svg)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/codequality.yml)
-### cppcheck
-[![cppcheck-action](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/cpp.yml/badge.svg)](https://github.com/DeepikaR24/M1_TicketBooking-Airline_Utility/actions/workflows/cpp.yml)
+
 ### Codiga
-#### Code quality score
+#### Code Quality Score
 ![image](https://user-images.githubusercontent.com/98866123/156388532-ecdb08b1-2177-4797-a893-d8096068f321.png)
-#### Code grade
+#### Code Grade
 ![image](https://user-images.githubusercontent.com/98866123/156388794-ae53b908-0ef8-4150-93c9-64537f9584fd.png)
 
 

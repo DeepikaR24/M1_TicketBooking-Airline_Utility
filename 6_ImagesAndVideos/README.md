@@ -1,11 +1,12 @@
 ## OUTPUT IMAGES ADDED
  * Interface page
  
+ * Passengers details for booking 
  * Invalid Selection
- * Passenger Details
+ * Displaying Passenger records with seat no.
  * Seat full
- * Seat Booking Successfull
- * Seat no. Display
  * Seat Cancellation
+ * Exit page
+ 
  
 

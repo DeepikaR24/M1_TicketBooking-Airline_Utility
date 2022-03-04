@@ -114,4 +114,12 @@ Passengers and their passport details, travel location and timing are much enoug
   
   ![nTLL](https://user-images.githubusercontent.com/98866123/156670594-8f0bb4b5-7eda-41d8-86ac-3bdc42e1b41c.png)
   
+## Conclusion
+ Airline Booking Ticket are easily possible for both domestic & international airlines. 
+ Able to store & maintain the records of passengers in database which can be retrieve the data easily whenever wanted.
+## Learning Resources
+ * Google-basics requirements to book the seat.
+ * Managing & booking resources-Airlines articles & videos.
+ * Futureskill reference videos.
+ 
 

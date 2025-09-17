@@ -8,7 +8,7 @@ Airline Reservation systems (ARS) are systems that permit associate degree airli
 * This booking system is more required and helpful in this pandemic situation.
 ## Research
 Airline booking frameworks consolidate aircraft plans, admission levies, traveler reservations and ticket records. A carrier's immediate conveyance works inside their own booking framework, as well as pushing out data to the GDS. The second sort of direct conveyance channel are shoppers who utilize the web or versatile applications to make their own bookings. Travel services channels access similar GDS as those got to by the carrier reservation frameworks, and all informing is communicated by a normalized informing framework that capacities on two kinds of informing that send on SITA's general organization (HLN). These informing types are called Type A [usually EDIFACT format] for continuous intuitive correspondence and Type B [TTY] for enlightening and booking sort of messages. Message development norms set by IATA and ICAO, are worldwide, and apply to more than air transportation. Since airline booking frameworks are business basic applications, and they are practically very mind boggling, the activity of an in-house airline booking framework is somewhat costly.
-## Cost
+## Cost!
   Requires High Cost for global implementation and maintainance.
 ## Defining  Our System
  ![design png](https://user-images.githubusercontent.com/98866123/153311069-f4f23c33-05b0-4129-8757-2af0fbce41ea.png)
